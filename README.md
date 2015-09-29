@@ -23,3 +23,4 @@ Testing Show Child commits option
 Task commit
 Test commit
 Task + Test commit
+CHild commit where parent has no commits
