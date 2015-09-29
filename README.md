@@ -25,3 +25,4 @@ Test commit
 Task + Test commit
 CHild commit where parent has no commits
 parent only commit
+defect parent only 
