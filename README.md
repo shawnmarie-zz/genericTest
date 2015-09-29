@@ -27,3 +27,5 @@ CHild commit where parent has no commits
 parent only commit
 defect parent only 
 a second for good measure
+
+closed test on a defect
