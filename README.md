@@ -18,3 +18,5 @@ fresh new teamroom
 
 Edge testing!
 REady now
+
+Testing Show Child commits option
