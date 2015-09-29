@@ -21,3 +21,4 @@ closed test on a defect
 closed task on a defect
 
 15.1 story
+15.1 task and test
