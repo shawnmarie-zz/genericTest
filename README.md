@@ -26,3 +26,4 @@ closed task on a defect
 15.1 child only again
 
 15.3 story
+15.3 defect only
