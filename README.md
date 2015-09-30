@@ -27,3 +27,4 @@ closed task on a defect
 
 15.3 story
 15.3 defect only
+15.3 task and test
