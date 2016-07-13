@@ -15,3 +15,5 @@ my first Bb commit S-04025
 trying custom Bbcommit S-04025
 
 Denis is Testing
+
+generate changeset in LC
